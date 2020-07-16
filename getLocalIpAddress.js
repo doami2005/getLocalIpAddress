@@ -1,7 +1,7 @@
 /*
 
 Made by doami2005
-Idea from https://woodongwoo.tistory.com/m/1
+java source from https://woodongwoo.tistory.com/m/1
 
 getLocalIpAddress(1)
 // Ipv4
